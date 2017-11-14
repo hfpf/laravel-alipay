@@ -1,4 +1,4 @@
-<?php namespace Huangfu\LaravelAlipay;
+<?php namespace LaravelAlipay\Payment;
 
 use Alipay\Payment\Payment;
 use Illuminate\Support\ServiceProvider;
