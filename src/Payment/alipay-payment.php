@@ -1,5 +1,5 @@
 <?php
-$config = [
+return [
     // 应用ID,您的APPID(必填)
     'app_id' => 'xxxxxxxxxxxx',
 
